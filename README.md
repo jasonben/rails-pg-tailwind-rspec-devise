@@ -1,4 +1,3 @@
-# TPS Directory of Applications
 ```
 rails new --database=postgresql --skip-test --javascript=importmap --css=tailwind --skip-bundle
 ```
